@@ -121,8 +121,10 @@
     }
 
     .video-content iframe {
-      max-width: 100%;
-      height: 400px;
+      display: block;
+      margin-top:0 auto;
+      max-width: 853px;
+      height: 480px;
     }
 
     .site-report {
